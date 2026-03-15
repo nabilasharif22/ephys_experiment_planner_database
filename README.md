@@ -2,8 +2,6 @@
 
 This project is a modular, Python‑based Laboratory Information Management System (LIMS) designed to support the complex workflows of electrophysiology research. It provides a structured, reliable way to organize every layer of experimental metadata—from high‑level projects and personnel to mice, cells, drugs, ACSF/internal solutions, and experiment configurations. The system is built around SQLite database. Each entity in the system is managed through its own dedicated CRUD module. Command-line interface is used to search the database.
 
-
-
 **Project Structure**
 
 ephys_experiment_planner_database/
